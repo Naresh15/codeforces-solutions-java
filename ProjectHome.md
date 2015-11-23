@@ -1,0 +1,1 @@
+solutions for codeforces and another contests
